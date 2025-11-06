@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     33 hrs          ███████████████████████▓░   94.53 %
-XML                    40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-PowerShell             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Csproj                 32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C#                                 30 hrs 36 mins  ████████████████████████░   96.28 %
+Csproj                             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+XML                                20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Microsoft Visual Studio Solution   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+XML Solution File                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
