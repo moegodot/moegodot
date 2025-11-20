@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             14 hrs 17 mins  ████████████████████▒░░░░   80.85 %
-TypeScript       1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-TOML             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-PowerShell       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Rust             18 hrs 31 mins  ████████████████████▓░░░░   83.20 %
+TypeScript       1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+TOML             1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Markdown         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+PowerShell       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
