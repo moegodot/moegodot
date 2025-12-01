@@ -20,8 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   8 hrs 37 mins   ████████████████████████▓   98.90 %
-TOML   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Rust         1 hr 24 mins    █████████████▒░░░░░░░░░░░   53.81 %
+Python       56 mins         █████████░░░░░░░░░░░░░░░░   36.09 %
+TypeScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
