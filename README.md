@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              27 hrs 11 mins  ████████████▓░░░░░░░░░░░░   51.10 %
-TypeScript        13 hrs 54 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-JSON              3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Markdown          3 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-TSConfig          2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Rust              31 hrs 45 mins  ██████████████▒░░░░░░░░░░   56.70 %
+TypeScript        12 hrs 44 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+JSON              3 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown          3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+TSConfig          2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
