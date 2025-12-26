@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              32 hrs 21 mins  ███████████████████████▓░   94.41 %
-TOML              1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Protocol Buffer   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Markdown          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JSON              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Rust              35 hrs 37 mins  ███████████████████████▒░   93.77 %
+TOML              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Protocol Buffer   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TypeScript        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
