@@ -20,11 +20,8 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                14 hrs 53 mins  ██████████████████████▓░░   91.06 %
-TOML                1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-XML                 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-XML Solution File   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GitIgnore file      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Rust   9 hrs 34 mins   ████████████████████████░   96.14 %
+TOML   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
