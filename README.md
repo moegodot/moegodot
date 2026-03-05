@@ -20,8 +20,8 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   2 hrs 12 mins         █████████████████████████   99.45 %
-TOML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Rust   12 mins               ████████████████████████░   96.34 %
+TOML   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
