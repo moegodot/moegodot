@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        2 hrs 30 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
-YAML                      1 hr 50 mins          ███████▒░░░░░░░░░░░░░░░░░   29.11 %
-Project file properties   28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Csproj                    26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-XML Solution File         23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+C#                        4 hrs 43 mins         █████████████▓░░░░░░░░░░░   55.00 %
+YAML                      1 hr 24 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Project file properties   1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+XML Solution File         24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Csproj                    19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
