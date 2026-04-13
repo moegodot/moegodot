@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                     11 hrs 47 mins        ███████████▓░░░░░░░░░░░░░   46.57 %
-C#                        8 hrs 23 mins         ████████▒░░░░░░░░░░░░░░░░   33.15 %
-Project file properties   1 hr 51 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Markdown                  56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-XML                       37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other                     13 hrs 1 min          █████████████░░░░░░░░░░░░   51.66 %
+C#                        7 hrs 9 mins          ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Project file properties   1 hr 41 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Markdown                  1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Text                      56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
