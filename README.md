@@ -20,11 +20,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         18 mins               ███████████████▒░░░░░░░░░   61.46 %
-YAML         11 mins               █████████▓░░░░░░░░░░░░░░░   38.21 %
-KDL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
