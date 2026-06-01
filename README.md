@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       22 hrs 10 mins        █████████████▓░░░░░░░░░░░   54.73 %
-TypeScript   4 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-JSON         3 hrs 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Bash         3 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-PowerShell   1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Python       14 hrs 58 mins        █████████████▓░░░░░░░░░░░   54.13 %
+TypeScript   4 hrs 57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+JSON         2 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Bash         2 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+INI          59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
