@@ -20,8 +20,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Text       11 mins               ██████████████░░░░░░░░░░░   55.57 %
-Markdown   9 mins                ███████████░░░░░░░░░░░░░░   44.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
